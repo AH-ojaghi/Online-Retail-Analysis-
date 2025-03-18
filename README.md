@@ -1,6 +1,10 @@
 ```markdown
 # Online Retail Data Analysis Project
 
+![Online Retail](https://www.retailgazette.co.uk/wp-content/uploads/2021/01/Online-shopping_online-sales_online-retail_ecommerce_ST.jpg)
+
+
+## Overview
 This project focuses on analyzing the **Online Retail Dataset** to uncover insights into customer behavior, sales trends, and product performance. The analysis includes **Exploratory Data Analysis (EDA)**, **RFM Analysis**, **Market Basket Analysis**, and **Time-Based Analysis**. The goal is to provide actionable insights for improving sales strategies and customer engagement.
 
 ---
