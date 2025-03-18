@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## ✍️ Author  
+##  Author  
 **Amirhossein Ojaghi**  
-🔗 [GitHub](https://github.com/AH-ojaghi/911-Calls-Capstone)
+🔗 [GitHub](https://github.com/AH-ojaghi/Online-Retail-Analysis)
 
