@@ -1,4 +1,3 @@
-```markdown
 # Online Retail Data Analysis Project
 
 ![Online Retail](https://www.retailgazette.co.uk/wp-content/uploads/2021/01/Online-shopping_online-sales_online-retail_ecommerce_ST.jpg)
@@ -145,8 +144,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-**Happy Analyzing!** 🚀
-```
-
----
+## ✍️ Author  
+**Amirhossein Ojaghi**  
+🔗 [GitHub](https://github.com/AH-ojaghi/911-Calls-Capstone)
 
